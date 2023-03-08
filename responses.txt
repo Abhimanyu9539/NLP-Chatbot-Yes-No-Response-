@@ -1,0 +1,55 @@
+Hello|Greetings|Hello. I am AB. I will serve your enquiries.
+hi hello|Greetings|Hello. I am AB. I will serve your enquiries.
+hi |Greetings|Hello. I am AB. I will serve your enquiries.
+hi|Greetings|Hello. I am AB. I will serve your enquiries.
+hi|Greetings|Hello. I am AB. I will serve your enquiries.
+hey|Greetings|Hello. I am AB. I will serve your enquiries.
+hello, hi|Greetings|Hello. I am AB. I will serve your enquiries.
+hey|Greetings|Hello. I am AB. I will serve your enquiries.
+hey, hi|Greetings|Hello. I am AB. I will serve your enquiries.
+hey, hello|Greetings|Hello. I am AB. I will serve your enquiries.
+Good morning|Morning|Good Morning. I am AB. I will serve your enquiries.
+Good afternoon|Afternoon|Good afternoon. I am AB. I will serve your enquiries.
+Good evening|Evening|Good evening. I am AB. I will serve your  enquiries.
+Good night|Goodbye|Good night. Take care.
+thanks.|Closing|You're welcome!It's glad to know that I have been helpful. Have a good day!
+thanks very much|Closing|It's glad to know that I have been helpful. Have a good day!
+Hello|Greetings|Hello. I am AB. I will serve your enquiries.
+hi hello|Greetings|Hello. I am AB. I will serve your enquiries.
+hi |Greetings|Hello. I am AB. I will serve your enquiries.
+hi|Greetings|Hello. I am AB. I will serve your enquiries.
+hi|Greetings|Hello. I am AB. I will serve your enquiries.
+hey|Greetings|Hello. I am AB. I will serve your enquiries.
+hello, hi|Greetings|Hello. I am AB. I will serve your enquiries.
+hey|Greetings|Hello. I am AB. I will serve your enquiries.
+hey, hi|Greetings|Hello. I am AB. I will serve your enquiries.
+hey, hello|Greetings|Hello. I am AB. I will serve your enquiries.
+Good morning|Morning|Good Morning. I am AB. I will serve your enquiries.
+Good afternoon|Afternoon|Good afternoon. I am AB. I will serve your enquiries.
+Good evening|Evening|Good evening. I am AB. I will serve your enquiries.
+Good night|Goodbye|Good night. Take care.
+
+Can i apply for a loan?|Positive-Response-type|Yes
+Am i eligible to apply for a loan?|Positive-Response-type|Yes
+May I apply for a loan?|Positive-Response-type|Yes
+I'm interested in applying for a loan, is that something I can do?|Positive-Response-type|Yes
+Are there any requirements to apply for a loan?|Positive-Response-type|Yes
+What do I need to do to apply for a loan?|Positive-Response-type|Yes
+Do I need collateral to secure the loan?|Positive-Response-type|Yes
+Can I apply for a loan online?|Positive-Response-type|Yes
+Will my credit score affect my eligibility for a loan?|Positive-Response-type|Yes
+Can I apply for a loan if I am a student?|Negative-Response-type|Yes
+Can I apply for a loan if I am self-employed?|Negative-Response-type|Yes
+Will my employment status affect my eligibility for a loan?|Negative-Response-type|Yes
+How long does it take to get approved for a loan?|Negative-Response-type|Yes
+
+Can i apply for a loan if my score is low?|Negative-Response-type|No
+Am i eligible to apply for a loan if my age is less than 18?|Negative-Response-type|No
+Will the loan amount be affected by my credit score?|Negative-Response-type|No
+
+
+
+I want to apply for loan|Assertive-response|No Response
+I want to apply for loan|Assertive-response|No Response
+
+
